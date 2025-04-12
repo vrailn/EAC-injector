@@ -4,4 +4,4 @@
  
 UC post -> https://www.unknowncheats.me/forum/anti-cheat-bypass/695972-eac-injector.html
 
-injector originally developed by Leproxy/.prcb, and stern
+injector originally developed by Leproxy and stern
